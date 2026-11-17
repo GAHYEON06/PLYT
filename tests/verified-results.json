@@ -1,0 +1,10 @@
+{
+  "scope": "Windows native C++ HTTP API",
+  "sensitiveDataIncluded": false,
+  "result": "passed",
+  "linuxContainer": "not executed",
+  "apiChecks": 65,
+  "totalChecks": 68,
+  "publicDeployment": "not performed",
+  "restartChecks": 3
+}

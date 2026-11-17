@@ -1,0 +1,23 @@
+# Build products
+build/
+android/.gradle/
+android/.kotlin/
+android/.idea/
+android/local.properties
+android/**/build/
+*.obj
+*.pdb
+*.ilk
+*.apk
+# Runtime database, private setup key, credentials
+data/
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+# Platform files
+.DS_Store
+Thumbs.db
+
+!downloads/PLYT-debug.apk

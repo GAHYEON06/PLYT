@@ -1,0 +1,9 @@
+build
+android
+.git
+data
+work
+*.apk
+*.zip
+*.obj
+*.pdb
